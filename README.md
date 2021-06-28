@@ -14,6 +14,7 @@ This is mean there are three type (3 lines) of dose distribution in treatment co
 Three type of dose distribution come from combination of four dose distribution.
 First number is number of fraction, second number is number of dose distribution use for combination.
 First line mean this dose deliver for 9 fraction using combination of dose from "dose_1" and "dose_3".
+Dose, CT and Structure extract from this code may result in different origin and spacing, further preprocessing may require.
 
 Note that this code can be extract only one course per patient. Patient that had multiple course per single treatment
 were extracted manualy.

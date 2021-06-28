@@ -1,6 +1,6 @@
 
 
-This code is for extract daily dose from eclipse varian treatment planning system (fraction.cs).
+This code is for extract daily dose from eclipse varian treatment planning system (Fraction.cs).
 Output file are CT image (ct.vtk), Dose image (dose_n.vtk), Structure and fraction information (fraction.txt).
 In file (fraction.txt) are organize type of dose fraction per line. For example:
 
